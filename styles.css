@@ -1,2 +1,10 @@
 
 /* Your CSS Code here. */
+.item{
+    margin: 10px;
+    border: 1px solid #ddd;
+    box-shadow: 1px 1px #ddd;
+}
+.title{
+    margin: 10px;
+}
